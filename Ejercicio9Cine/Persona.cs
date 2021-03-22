@@ -50,7 +50,7 @@ namespace Ejercicio9Cine
                         
                     }
                 }
-                else Console.WriteLine("SALA LLENA");
+                else Console.WriteLine("SALA LLENA NO SE HA PODIDO AÑADIR A MAS GENTE");
             }
         }
     }

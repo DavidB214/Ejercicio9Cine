@@ -71,6 +71,7 @@ namespace Ejercicio9Cine
                     }else
                     Console.Write((i + 1) + "" +letras[j] + " ");
                 }
+
                 Console.WriteLine();
 
             }
